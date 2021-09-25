@@ -1,2 +1,2 @@
-# Hobby
+# HobbyApp
 Exploring App Development
