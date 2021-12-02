@@ -1,2 +1,3 @@
 # HobbyApp
-Exploring App Development
+Exploring App Development.
+
