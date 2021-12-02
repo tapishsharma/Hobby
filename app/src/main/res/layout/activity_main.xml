@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".MainActivity">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/music" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LOVE PLAYING PIANO"
+        android:layout_alignParentBottom="true"
+        android:textSize="30sp"
+        android:fontFamily="sans-serif-DARK"
+        android:textColor="#a200e0"
+        android:padding="30dp"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:fontFamily="cursive"
+        android:padding="20dp"
+        android:text="The important thing is to feel your music, really feel it and believe it."
+        android:textColor="#ff9e22"
+        android:textStyle="bold"
+        android:textSize="35sp" />
+
+
+
+
+</RelativeLayout>
